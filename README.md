@@ -17,7 +17,7 @@ I'm Daniel, Business Analyst and Data Scientist from 🥑**Chihuahua, Mexico**�
 ### 🔗 Where to find me (Feel free to reach out!)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dancom)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dancmz)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniel.contreras@datasyg.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dancmz98@gmail.com)
 
 
 ### 💻 Tech Stack & Tools
